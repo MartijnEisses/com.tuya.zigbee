@@ -682,6 +682,7 @@ Supported devices:
     _TZ3000_yj6k7vfo / TS0041
     _TZ3000_ja5osu5g / TS004F
     _TZ3000_qgwcxxws / TS0041
+    _TZ3000_b4awzgct / TS0041
 
 - 4 Button Smart Remote Controller
     _TZ3000_fsiepnrh / TS0215A (Nedis)
